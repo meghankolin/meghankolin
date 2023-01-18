@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **meghankolin/meghankolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me
+Hi there! My name is Meghan Kolin (she/they) and I'm a fourth-year urban studies and human geography student at the University of Toronto.
+
+My experience with coding/development is pretty limited, but I'm very excited to get to know the space further. Currently, I am learning how to work with **HTML** and **JavaScript**, particularly their intersection with web mapping. However, I am always excited to learn new things and hope to add a few more programming languages and skills to my repertoire over the years.
+
+When I'm not in class or working on something for school, I run an a cappella group on campus. I also enjoy getting lost in the depths of Google Maps.
+
+Links to my LinkedIn profile and other relevant things coming soon!
